@@ -24,6 +24,7 @@
             .catalog {
                 background-color: black;
                 padding: 60px 40px;
+                width: 275px;
                 &:hover {
                     cursor: pointer;
                     &:hover .catalog__price {

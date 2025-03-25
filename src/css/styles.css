@@ -346,6 +346,7 @@ textarea::placeholder {
 #menu-buy .buyers-content .items .catalog {
   background-color: black;
   padding: 60px 40px;
+  width: 275px;
 }
 #menu-buy .buyers-content .items .catalog:hover {
   cursor: pointer;
